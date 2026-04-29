@@ -1,0 +1,1 @@
+No exercício 3, será uma aula de como colocar imagens em um site.

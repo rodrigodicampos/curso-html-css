@@ -1,1 +1,0 @@
-Nesse capítulo, iremos estudar sobre a inclusão de links e âncoras em nossos códigos. 
